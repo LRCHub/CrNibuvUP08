@@ -1,0 +1,248 @@
+{
+  "version": 1,
+  "base_track": "Here I Am",
+  "base_artist": "BOYS PLANET",
+  "createdAt": "2026-03-19T15:34:21.342666Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Here I Am",
+      "artist": "Nicki Minaj",
+      "has_synced": true,
+      "path": "select/01_Here_I_Am_Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Majesty (Here I Am)",
+      "artist": "Hayley Westenra",
+      "has_synced": true,
+      "path": "select/02_Majesty_(Here_I_Am)_Hayley_Westenra.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Here I Am",
+      "artist": "The Sugarhill Gang",
+      "has_synced": false,
+      "path": "select/03_Here_I_Am_The_Sugarhill_Gang.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Here I Am (Come and Take Me)",
+      "artist": "Al Green",
+      "has_synced": false,
+      "path": "select/04_Here_I_Am_(Come_and_Take_Me)_Al_Green.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Here I Am",
+      "artist": "Phantom Planet",
+      "has_synced": false,
+      "path": "select/05_Here_I_Am_Phantom_Planet.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Here I Am (Album Version)",
+      "artist": "Phantom Planet",
+      "has_synced": false,
+      "path": "select/06_Here_I_Am_(Album_Version)_Phantom_Planet.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "It Took Me So Long To Get Here, But Here I Am",
+      "artist": "KT Tunstall",
+      "has_synced": true,
+      "path": "select/07_It_Took_Me_So_Long_To_Get_Here,_But_Here_I_Am_KT_Tunstall.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Here I Am",
+      "artist": "David Morales",
+      "has_synced": true,
+      "path": "select/08_Here_I_Am_David_Morales.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Here I Am (Ft Tamra Keenan)",
+      "artist": "David Morales",
+      "has_synced": true,
+      "path": "select/09_Here_I_Am_(Ft_Tamra_Keenan)_David_Morales.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Here I Am (Come And Take Me)",
+      "artist": "Michael Jackson",
+      "has_synced": false,
+      "path": "select/10_Here_I_Am_(Come_And_Take_Me)_Michael_Jackson.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Here I Am",
+      "artist": "Freestyle Fellowship",
+      "has_synced": false,
+      "path": "select/11_Here_I_Am_Freestyle_Fellowship.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Can You Feel That (Here I Am)",
+      "artist": "Taking Back Sunday",
+      "has_synced": true,
+      "path": "select/12_Can_You_Feel_That_(Here_I_Am)_Taking_Back_Sunday.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Here I Am",
+      "artist": "Renee Sandstrom",
+      "has_synced": true,
+      "path": "select/13_Here_I_Am_Renee_Sandstrom.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Here I Am",
+      "artist": "Rick Ross feat. Nelly & Avery Storm",
+      "has_synced": false,
+      "path": "select/14_Here_I_Am_Rick_Ross_feat._Nelly_&_Avery_Storm.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Here I Am (featuring Nelly & Avery Storm)",
+      "artist": "Rick Ross",
+      "has_synced": false,
+      "path": "select/15_Here_I_Am_(featuring_Nelly_&_Avery_Storm)_Rick_Ross.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Here I Am",
+      "artist": "Superfunk",
+      "has_synced": false,
+      "path": "select/16_Here_I_Am_Superfunk.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Here I Am",
+      "artist": "Melanie C",
+      "has_synced": true,
+      "path": "select/17_Here_I_Am_Melanie_C.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Here I Am",
+      "artist": "Delta Goodrem",
+      "has_synced": false,
+      "path": "select/18_Here_I_Am_Delta_Goodrem.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Here I Stand And Face The Rain",
+      "artist": "A-ha",
+      "has_synced": true,
+      "path": "select/19_Here_I_Stand_And_Face_The_Rain_A-ha.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "10 - Here I Stand And Face The Rain",
+      "artist": "A",
+      "has_synced": true,
+      "path": "select/20_10_-_Here_I_Stand_And_Face_The_Rain_A.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Here I Come",
+      "artist": "The 2 Live Crew",
+      "has_synced": false,
+      "path": "select/21_Here_I_Come_The_2_Live_Crew.txt"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Here I Come",
+      "artist": "The 2 Live Crew",
+      "has_synced": false,
+      "path": "select/22_Here_I_Come_The_2_Live_Crew.txt"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Here I Come",
+      "artist": "The Roots feat. Dice Raw & Malik B.",
+      "has_synced": true,
+      "path": "select/23_Here_I_Come_The_Roots_feat._Dice_Raw_&_Malik_B..lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Here I Come (Feat. Dice Raw of Nouveau Riche & Malik B.)",
+      "artist": "The Roots",
+      "has_synced": true,
+      "path": "select/24_Here_I_Come_(Feat._Dice_Raw_of_Nouveau_Riche_&_Malik_B.)_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Here I Go",
+      "artist": "Mystikal",
+      "has_synced": true,
+      "path": "select/25_Here_I_Go_Mystikal.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Here I Go",
+      "artist": "Mystikal",
+      "has_synced": true,
+      "path": "select/26_Here_I_Go_Mystikal.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Here I Go Again",
+      "artist": "Robbie Nevil",
+      "has_synced": false,
+      "path": "select/27_Here_I_Go_Again_Robbie_Nevil.txt"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Here I Come",
+      "artist": "CocoRosie",
+      "has_synced": true,
+      "path": "select/28_Here_I_Come_CocoRosie.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Here I Stand Before Me",
+      "artist": "Crash Test Dummies",
+      "has_synced": true,
+      "path": "select/29_Here_I_Stand_Before_Me_Crash_Test_Dummies.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Here I Am",
+      "artist": "BOYS PLANET",
+      "has_synced": false,
+      "path": "select/pl_01_Here_I_Am_BOYS_PLANET.txt"
+    }
+  ]
+}
